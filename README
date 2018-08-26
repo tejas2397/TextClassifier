@@ -1,0 +1,1 @@
+To Build A text classifier which uses the movie reviews from nltk.corpus.The text classifier uses Basic & advanced preprocessing to clean the data for preparing the classifier.Accuracy of different algorithms is calculated in the code given.
